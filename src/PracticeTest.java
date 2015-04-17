@@ -5,8 +5,7 @@ public class PracticeTest {
 		//print out your name and github username
         
 	       System.out.println("Richard Cross = rkjc");
-	        
-	       System.out.println("Rishi S Keshav = RishiSKeshav");
+	        System.out.println("Varun Patel = varun77");
 
 	}
 
