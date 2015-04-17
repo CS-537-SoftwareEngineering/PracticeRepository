@@ -8,8 +8,7 @@ public class PracticeMain {
 
 		System.out.println("Richard Cross = rkjc");
 		// added this additional comment
-		//added this on branch b1
-		//this is the original master branch with the rkjc-b1 branch merged in
+		
 
 		System.out.println("Palak Patel = palak26");
 	
