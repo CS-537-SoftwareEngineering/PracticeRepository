@@ -11,7 +11,7 @@ public class PracticeMain {
 		//added this on branch b1
 		//this is the original master branch with the rkjc-b1 branch merged in
 
-		System.out.println("Mahdiye Jamali = SuperMaddie");
+		System.out.println("Hani Jose = hjose4");
 	
 	
 	}
